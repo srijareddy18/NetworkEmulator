@@ -1,5 +1,5 @@
 1. Author
-	Chaitanya Naidu Pindi (cp22k)
+	Srija Reddy Timmayyagari
 
 2. How to compile the code
 	
